@@ -403,5 +403,15 @@
             #previewAssinatura, #previewClinica { display: block !important; max-height: 70px; }
 			
 			#dataInput { display: none !important; }
+
+			h1, .main-title {		    
+		    font-size: 16px;
+		    text-align: left;		    
+			}
+		
+			span, .highlight {
+				font-size: 16px;
+			    color: var(--primary);
+			}
         }
     
