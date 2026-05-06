@@ -17,7 +17,7 @@
         body {
             margin: 0;
             padding: 40px;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Raleway', sans-serif;
             background: var(--bg);
             color: var(--primary);
         }
@@ -79,14 +79,14 @@
         }		
 
 		/* TITULO */
-		.main-title {
+		h1, .main-title {
 		    font-family: 'Playfair Display', serif;
 		    font-size: 2.5rem;
 		    text-align: center;
 		    margin-bottom: 40px;
 		}
 		
-		.highlight {
+		span, .highlight {
 		    color: var(--accent);
 		}
 
