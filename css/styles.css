@@ -4,6 +4,7 @@
             --bg: #f5f7f9;
             --card: #ffffff;
             --border: #e5e7eb;
+			--accent: #C9A568;
         }
 
         * { box-sizing: border-box; }
