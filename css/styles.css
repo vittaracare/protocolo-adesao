@@ -1,10 +1,18 @@
         :root {
-            --primary: #1f2933;
-            --secondary: #8b6f47;
+            
             --bg: #f5f7f9;
             --card: #ffffff;
             --border: #e5e7eb;
-			--accent: #C9A568;
+			
+
+		    --primary: #1B4B5A;
+            --secondary: #7FA99B;
+            --accent: #C9A568;
+            --rose: #D4A5A5;
+            --cream: #FAF7F2;
+            --white: #FFFFFF;
+            --text-dark: #2B3A42;
+            --text-light: #8B8B8B;
         }
 
         * { box-sizing: border-box; }
