@@ -32,6 +32,18 @@
 		    margin: 1rem auto;
 		}
 
+		/* TITULO */
+		.main-title {
+		    font-family: 'Playfair Display', serif;
+		    font-size: 2.5rem;
+		    text-align: center;
+		    margin-bottom: 40px;
+		}
+		
+		.highlight {
+		    color: var(--accent);
+		}
+
 		/* BACKGROUND */
 		.bg-decoration {
 		    position: fixed;
